@@ -8,4 +8,4 @@ Pour notre programme de projet connecté, il est séparé à deux partie :
 	   
 Pour des informations détaillées sur l'utilisation, veuillez consulter le fichier Readme.txt sous chaque fichier.
 
-Notre article sur Hackster: 
+Notre article sur Hackster: https://www.hackster.io/326149/waiter-robot-in-restaurant-f9ea2f
